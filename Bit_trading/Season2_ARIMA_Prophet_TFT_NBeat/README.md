@@ -24,7 +24,7 @@ Private Score : 40th
 
 ## 실행 환경
 
-Google Colab에서 사용
+Google Colab에서 사용  
 [Data](https://dacon.io/competitions/official/235740/overview/description) : Daycon-인공지능 비트 트레이더 경진대회 시즌 2
 
 ## 코드 오류 및 개선점
