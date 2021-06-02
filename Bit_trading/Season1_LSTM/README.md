@@ -8,8 +8,8 @@
 ## 파일
 |File|Description|
 |:-- |:-- |
-|season1_final_submission_train.ipynb|BILSTM을 사용하여 40분 간격으로 다음 1분을 에측하는 task 수행|
-|season1_final_submission_test.ipynb|학습한 파라미터들을 이용해 test set의 120분 예측하고 submission file 만들기|
+|Season1_final_submission_train.ipynb|BILSTM을 사용하여 40분 간격으로 다음 1분을 에측하는 task 수행|
+|Season1_final_submission_prediction.ipynb|학습한 파라미터들을 이용해 test set의 120분 예측하고 submission file 만들기|
 |100n_1L_BILSTM_7ep_5feature.pth|100개의 sample과 5개의 feature를 가진 데이터에 대해서 각각 7epoch씩 업데이트를 시킨 결과 파라미터|
 
 ## 작동원리
