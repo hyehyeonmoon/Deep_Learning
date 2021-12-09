@@ -11,4 +11,4 @@ Bitcoin-Trading with ARIMA, Prophet, LSTM, TFT, NBeat
 
 ## 2021 Dev-Matching: 머신러닝 개발자
 Image Classification with Efficient_net, Resnet, Clip  
-참고 : [프로그래머스 데브매칭 후기](https://dsc-university-of-seoul.github.io/Review_of_Dev_matching/)
+참고 : [프로그래머스 데브매칭 후기](https://gdsc-university-of-seoul.github.io/Review_of_Dev_matching/)
